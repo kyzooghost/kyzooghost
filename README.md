@@ -7,7 +7,7 @@ I'm a full-time blockchain developer at Solace.
 ## About me
 
 - 🌱 I’m currently learning [Rust](https://www.rust-lang.org/), [AWS](https://aws.amazon.com/), and data structures and algorithms.
-- 💬 Ask me about **[Solidity](https://soliditylang.org/) and blockchain technology**
+- 💬 Ask me about **[Solidity](https://soliditylang.org/)** and blockchain technology
 - 🔥 Driven by optimising software performance and security
 - 👨‍⚕️ Fun fact: I worked in healthcare in a past life
 
