@@ -2,8 +2,6 @@
 
 I'm a full-time blockchain developer at Solace. 
 
-⚡ Fun fact: I worked in healthcare in a past life 👨‍⚕️
-
 </br>
 
 ## About me
@@ -12,6 +10,7 @@ I'm a full-time blockchain developer at Solace.
 - 👯 I’m looking to collaborate on **new and exciting projects**
 - 💬 Ask me about **[Solidity](https://soliditylang.org/) and blockchain technology**
 - 🔥 Driven by optimising software performance and security
+- 👨‍⚕️ Fun fact: I worked in healthcare in a past life
 
 </br>
 
