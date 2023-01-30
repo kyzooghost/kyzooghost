@@ -1,6 +1,6 @@
 # Hi there 🤗
 
-I'm a full-time software engineer at Solace. 
+I'm a fullstack software engineer at Solace. 
 
 </br>
 
