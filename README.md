@@ -1,6 +1,6 @@
 # Hi there 🤗
 
-I'm a fullstack software engineer
+I'm a fullstack software engineer.
 
 </br>
 
