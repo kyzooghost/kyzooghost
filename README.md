@@ -1,6 +1,6 @@
 # Hi there 🤗
 
-I'm a fullstack software engineer.
+I'm a software engineer with expertise in enterprise and blockchain domains.
 
 </br>
 
@@ -15,15 +15,12 @@ I'm a fullstack software engineer.
 
 ## 🔨 Languages, Tools & Tech
 
-These are languages, tools, and technologies I use most frequently at work or in my personal projects:
+**Enterprise:** Typescript/Javascript, AWS, Node.js, React, Terraform, C#, .NET 
+**Blockchain:** Solidity, Subgraph, Foundry, Hardhat, ethers.js
+**Personal:** Rust, Python
 
-- Solidity
-- Javascript/Typescript
-- AWS
-- ethers.js
+
 - Foundry & AWS
-- Rust
-- Java
 
 <!--
 **kyzooghost/kyzooghost** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
