@@ -15,7 +15,12 @@ I'm a software engineer with expertise in enterprise and blockchain domains.
 
 ## 🔨 Languages, Tools & Tech
 
-**Enterprise:** Typescript/Javascript, AWS, Node.js, React, Terraform, C#, .NET 
+**Enterprise:** 
+- Typescript/Javascript
+- AWS (and Infrastructure-As-Code frameworks including Terraform and Serverless)
+- React and Angular
+- C# and .NET
+- Node.js
 
 **Blockchain:** Solidity, Subgraph, Foundry, Hardhat, ethers.js
 
