@@ -18,13 +18,19 @@ I'm a software engineer with expertise in enterprise and blockchain domains.
 **Enterprise:** 
 - Typescript/Javascript
 - AWS (and Infrastructure-As-Code frameworks including Terraform and Serverless)
-- React and Angular
-- C# and .NET
+- React / Angular
+- C# / .NET
 - Node.js
 
-**Blockchain:** Solidity, Subgraph, Foundry, Hardhat, ethers.js
+**Blockchain:** 
+- Solidity
+- Subgraph
+- Foundry / Hardhat
+- ethers.js
 
-**Personal:** Rust, Python
+**Personal:** 
+- Rust
+- Python
 
 <!--
 **kyzooghost/kyzooghost** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
