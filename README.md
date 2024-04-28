@@ -1,36 +1,37 @@
 # Hi there 🤗
 
-I'm a software engineer with expertise in enterprise and blockchain domains.
+I'm a dev who loves to build 👷
 
 </br>
 
 ## About me
 
-- 💬 Ask me about **[Solidity](https://soliditylang.org/)** and blockchain technology
+- ⚙️ I have built production software in the blockchain and medical technology spaces
+- 💬 Ask me about **[Solidity](https://soliditylang.org/)**, **[Typescript](https://www.typescriptlang.org/)** and blockchain technology
 - 🔥 Driven by optimising software performance and security
-- 🌱 I’m currently learning more about [Rust](https://www.rust-lang.org/) and [AWS](https://aws.amazon.com/)
-- 👨‍⚕️ Fun fact: I worked in healthcare in a past life
+- 🌱 I’m currently learning more about [Rust](https://www.rust-lang.org/)
+- 👨‍⚕️ Fun fact: I was a doctor in a past life
 
 </br>
 
 ## 🔨 Languages, Tools & Tech
 
-**Enterprise:** 
+**Languages:** 
 - Typescript / Javascript
-- AWS (and Infrastructure-As-Code frameworks including Terraform and Serverless)
-- React / Angular
-- C# / .NET
-- Node.js
-
-**Blockchain:** 
 - Solidity
-- Subgraph
-- Foundry / Hardhat
-- ethers.js
-
-**Personal:** 
-- Rust
+- C# / .NET
 - Python
+- Rust
+- Bash
+
+**Cloud:** 
+- AWS
+- Terraform, CDK, CloudFormation, Serverless Framework
+
+**Frameworks:** 
+- Foundry, Hardhat
+- React, Next.js, Angular
+- Subgraph, ethers.js
 
 <!--
 **kyzooghost/kyzooghost** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
