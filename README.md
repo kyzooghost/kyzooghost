@@ -6,7 +6,6 @@ I'm a dev who loves to build 👷
 
 ## About me
 
-- ⚙️ I have built production software in the blockchain and medical technology spaces
 - 💬 Ask me about **[Solidity](https://soliditylang.org/)**, **[Typescript](https://www.typescriptlang.org/)** and blockchain technology
 - 🔥 Driven by optimising software performance and security
 - 🌱 I’m currently learning more about [Golang](https://go.dev/) and [Rust](https://www.rust-lang.org/)
