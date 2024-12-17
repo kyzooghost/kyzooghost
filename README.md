@@ -15,6 +15,7 @@ Doctor in a previous life 👨‍⚕️
     * NodeJS applications
 * **AWS Cloud**
     * AWS Solutions Architect Associate
+    * Docker containers
     * Terraform + AWS CDK
 * **Enterprise backends in C# / .NET**
 * **Scripting**
