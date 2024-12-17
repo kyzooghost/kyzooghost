@@ -26,6 +26,7 @@ Doctor in a previous life 👨‍⚕️
 
 * **Golang and Rust**
 * **Solana**
+* **Kubernetes**
 * **System architecture**
 
 <!--
