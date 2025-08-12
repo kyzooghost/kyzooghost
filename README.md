@@ -1,19 +1,25 @@
 # Hi there 🤗
 
 Once upon a time, I was a doctor 👨‍⚕️,  
+
 now I’m a dev who stitches code instead of people.  
+
 Turns out, debugging is way less messy than surgery (usually).
 
 ## 🛠 My Happy Place (Comfort Stack)
 
 - **Blockchain sorcery** 🪄  
   Solidity · Foundry · Hardhat · Ethers.js · EVM wizardry
-- **Frontend mischief** 🎨  
-  Angular & React — because why pick just one flavour of JavaScript pain?  
+  
+- **Frontend mischief** 🎨
+  Angular & React — because why pick just one flavour of JavaScript pain?
+  
 - **Backend muscle** 🏋️  
   Node.js · C#/.NET · APIs that actually work
+  
 - **Cloud adventures** ☁️  
-  AWS Certified Solutions Architect (Associate) · Docker · Terraform · AWS CDK  
+  AWS Certified Solutions Architect (Associate) · Docker · Terraform · AWS CDK
+  
 - **Scripts & automation** 🤖  
   Python · Bash — perfect for that “just one quick script” that grows into a monster
 
@@ -24,6 +30,8 @@ Turns out, debugging is way less messy than surgery (usually).
 - Solana (faster than my coffee kicks in)  
 - Kubernetes (because I clearly like overcomplicating my dev environment)  
 - Big-picture system architecture
+
+---
 
 💬 **Let’s talk code, cloud, crypto, or coffee.**  
 📫 Ping me here on GitHub or wherever devs hang out.
