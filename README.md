@@ -1,33 +1,32 @@
 # Hi there 🤗
 
-I'm a dev who loves to build 👷 
+Once upon a time, I was a doctor 👨‍⚕️,  
+now I’m a dev who stitches code instead of people.  
+Turns out, debugging is way less messy than surgery (usually).
 
-Doctor in a previous life 👨‍⚕️
+## 🛠 My Happy Place (Comfort Stack)
 
-## Comfort Stack
+- **Blockchain sorcery** 🪄  
+  Solidity · Foundry · Hardhat · Ethers.js · EVM wizardry
+- **Frontend mischief** 🎨  
+  Angular & React — because why pick just one flavour of JavaScript pain?  
+- **Backend muscle** 🏋️  
+  Node.js · C#/.NET · APIs that actually work
+- **Cloud adventures** ☁️  
+  AWS Certified Solutions Architect (Associate) · Docker · Terraform · AWS CDK  
+- **Scripts & automation** 🤖  
+  Python · Bash — perfect for that “just one quick script” that grows into a monster
 
-* **EVM smart contracts**
-    * Solidity
-    * Foundry + Hardhat
-    * Ethers.js
-* **Typescript / Javascript**
-    * Frontends in Angular & React
-    * NodeJS applications
-* **AWS Cloud**
-    * AWS Solutions Architect Associate
-    * Docker containers
-    * Terraform + AWS CDK
-* **Enterprise backends in C# / .NET**
-* **Scripting**
-    * Python
-    * Bash
+## 🌱 Currently Poking At
 
-## Learning interests
+- Golang (the gopher is cute, okay?)  
+- Rust (safety *and* speed — my inner doctor approves)  
+- Solana (faster than my coffee kicks in)  
+- Kubernetes (because I clearly like overcomplicating my dev environment)  
+- Big-picture system architecture
 
-* **Golang and Rust**
-* **Solana**
-* **Kubernetes**
-* **System architecture**
+💬 **Let’s talk code, cloud, crypto, or coffee.**  
+📫 Ping me here on GitHub or wherever devs hang out.
 
 <!--
 **kyzooghost/kyzooghost** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
