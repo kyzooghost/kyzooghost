@@ -7,7 +7,7 @@ Turns out, debugging is just as messy as surgery.
 ## 🛠 My Happy Place (Comfort Stack)
 
 - **Blockchain Sorcery** 🪄  
-  Solidity · Foundry · Hardhat · EVM wizardry
+  Solidity · Foundry · Hardhat · EVM - conjuring contracts that survive mainnet
   
 - **Frontend Mischief** 🎨  
   React/NextJS & Angular — because why pick just one flavour of JavaScript pain?
