@@ -1,6 +1,6 @@
 # Hi there 🤗
 
-Once upon a time, I was a doctor 👨‍⚕️.  
+Once upon a time, I was a doctor 👨‍⚕️  
 Now I’m a dev who stitches code instead of people.  
 Turns out, debugging is just as messy as surgery.
 
