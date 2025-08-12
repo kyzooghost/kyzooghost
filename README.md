@@ -33,7 +33,7 @@ Turns out, debugging is way less messy than surgery (usually).
 
 ---
 
-💬 **Let’s talk code, cloud, crypto, or coffee.**  
+💬 Let’s talk engineering, healthcare, or coffee.
 📫 Ping me here on GitHub or wherever devs hang out.
 
 <!--
