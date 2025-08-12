@@ -1,9 +1,7 @@
 # Hi there 🤗
 
 Once upon a time, I was a doctor 👨‍⚕️,  
-
 now I’m a dev who stitches code instead of people.  
-
 Turns out, debugging is way less messy than surgery (usually).
 
 ## 🛠 My Happy Place (Comfort Stack)
