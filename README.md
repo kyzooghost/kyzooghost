@@ -6,23 +6,20 @@ Turns out, debugging is just as messy as surgery.
 
 ## 🛠 My Happy Place (Comfort Stack)
 
-- **Blockchain sorcery** 🪄  
+- **Blockchain Sorcery** 🪄  
   Solidity · Foundry · Hardhat · EVM wizardry
   
-- **Frontend mischief** 🎨  
+- **Frontend Mischief** 🎨  
   React/NextJS & Angular — because why pick just one flavour of JavaScript pain?
   
-- **Backend muscle** 🏋️  
+- **Backend Muscle** 🏋️  
   Node.js · C#/.NET · Java - APIs that actually work
   
-- **Cloud & Infrastructure adventures** ☁️⚙️  
+- **Cloud & Infrastructure Adventures** ☁️  
   Kubernetes · ArgoCD · AWS Certified Solutions Architect (Associate) · Terraform - containerising, orchestrating, and deploying stuff that *hopefully* works on the first try
 
-- **Automation & CI/CD pipelines** 🤖🚦  
+- **Automation Scripts & CI/CD Pipelines** 🚦  
   Python · Bash · GitHub Actions — from “one quick script” to fully automated pipelines that ship things faster
-  
-- **Scripts & automation** 🤖  
-  Python · Bash — perfect for that “one quick script” that grows into a monster
 
 ## 🌱 Currently Poking At
 
