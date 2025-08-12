@@ -16,7 +16,10 @@ Turns out, debugging is just as messy as surgery.
   Node.js · C#/.NET · Java - APIs that actually work
   
 - **Cloud & Infrastructure adventures** ☁️⚙️  
-  Kubernetes · AWS Certified Solutions Architect (Associate) · Docker · Terraform - containerising, orchestrating, and deploying stuff that *hopefully* works on the first try
+  Kubernetes · ArgoCD · AWS Certified Solutions Architect (Associate) · Terraform - containerising, orchestrating, and deploying stuff that *hopefully* works on the first try
+
+- **Automation & CI/CD pipelines** 🤖🚦  
+  Python · Bash · GitHub Actions — from “one quick script” to fully automated pipelines that ship things faster
   
 - **Scripts & automation** 🤖  
   Python · Bash — perfect for that “one quick script” that grows into a monster
