@@ -32,7 +32,7 @@ Turns out, debugging is just as messy as surgery.
 
 💬 Let’s talk engineering, healthcare, or coffee.
 
-📫 Ping me here on GitHub or wherever devs hang out.
+📫 Ping me here on Telegram or wherever devs hang out.
 
 <!--
 **kyzooghost/kyzooghost** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
