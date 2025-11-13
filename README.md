@@ -8,19 +8,19 @@ Turns out, debugging is just as messy as surgery.
 
 - **Blockchain Sorcery** 🪄  
   Solidity · Foundry · Hardhat · EVM - conjuring contracts that survive mainnet
-  
-- **Frontend Mischief** 🎨  
-  React/NextJS & Angular — because why pick just one flavour of JavaScript pain?
+
+- **Cloud & Infrastructure Adventures** ☁️  
+  Kubernetes · ArgoCD · AWS Certified Solutions Architect (Associate) · Terraform - containerising, orchestrating, and deploying stuff that *hopefully* works on the first try
   
 - **Backend Muscle** 🏋️  
   Node.js · C#/.NET · Java - APIs that actually work
-  
-- **Cloud & Infrastructure Adventures** ☁️  
-  Kubernetes · ArgoCD · AWS Certified Solutions Architect (Associate) · Terraform - containerising, orchestrating, and deploying stuff that *hopefully* works on the first try
 
 - **Automation Scripts & CI/CD Pipelines** 🚦  
   Python · Bash · GitHub Actions — from “one quick script” to fully automated pipelines that ship things faster
 
+- **Frontend Mischief** 🎨  
+  React/NextJS & Angular — because why pick just one flavour of JavaScript pain?
+  
 ## 🌱 Currently Poking At
 
 - Golang (the gopher is cute, okay?)  
