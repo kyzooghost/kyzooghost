@@ -31,7 +31,7 @@ Turns out, debugging is just as messy as surgery.
 ---
 
 📫 Ping me on Telegram: @kyzooghost  
-𝕏 Also on X: @kyzookyzoo
+𝕏 Also on X: [@kyzookyzoo](https://x.com/kyzookyzoo)
 
 
 <!--
