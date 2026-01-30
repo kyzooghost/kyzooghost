@@ -30,9 +30,9 @@ Turns out, debugging is just as messy as surgery.
 
 ---
 
-💬 Let’s talk engineering, healthcare, or coffee.
+📫 Ping me on Telegram: @kyzooghost  
+𝕏 Also on X: @kyzookyzoo
 
-📫 Ping me on Telegram @kyzooghost
 
 <!--
 **kyzooghost/kyzooghost** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
