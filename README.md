@@ -23,8 +23,8 @@ Turns out, debugging is just as messy as surgery.
   
 ## 🌱 Currently Poking At
 
+- AI agents (everyone is, let’s be honest)
 - Golang (the gopher is cute, okay?)  
-- Rust (safety *and* speed - my inner doctor approves)  
 - Solana (faster than my coffee kicks in)  
 - Big-picture system architecture
 
