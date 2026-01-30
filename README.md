@@ -16,15 +16,15 @@ Turns out, debugging is just as messy as surgery.
   Node.js · C#/.NET · Java - APIs that actually work
 
 - **Automation Scripts & CI/CD Pipelines** 🚦  
-  Python · Bash · GitHub Actions — from “one quick script” to fully automated pipelines that ship things faster
+  Python · Bash · GitHub Actions - from “one quick script” to fully automated pipelines that ship things faster
 
 - **Frontend Mischief** 🎨  
-  React/NextJS & Angular — because why pick just one flavour of JavaScript pain?
+  React/NextJS & Angular - because why pick just one flavour of JavaScript pain?
   
 ## 🌱 Currently Poking At
 
 - Golang (the gopher is cute, okay?)  
-- Rust (safety *and* speed — my inner doctor approves)  
+- Rust (safety *and* speed - my inner doctor approves)  
 - Solana (faster than my coffee kicks in)  
 - Big-picture system architecture
 
