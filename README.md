@@ -28,9 +28,11 @@ Turns out, debugging is just as messy as surgery.
 - Solana (faster than my coffee kicks in)  
 - Big-picture system architecture
 
-## 📊 GitHub Stats
-
-![Jefferson's GitHub stats](./profile/stats.svg)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/kyzooghost/kyzooghost/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/kyzooghost/kyzooghost/output/github-snake.svg" />
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/kyzooghost/kyzooghost/output/github-snake.svg" />
+</picture>
 
 ---
 
