@@ -30,7 +30,7 @@ Turns out, debugging is just as messy as surgery.
 
 ## 📊 GitHub Stats
 
-![Jefferson's GitHub stats](https://github-readme-stats.vercel.app/api?username=kyzooghost&show_icons=true&theme=radical)
+![Jefferson's GitHub stats](./profile/stats.svg)
 
 ---
 
