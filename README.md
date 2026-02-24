@@ -9,10 +9,10 @@ Turns out, debugging is just as messy as surgery.
 - **Blockchain Sorcery** 🪄  
   Solidity · Foundry · Hardhat · EVM - conjuring contracts that survive mainnet
 
-- **Cloud & DevOps** ☁️
+- **Cloud & DevOps** ☁️  
   AWS · Kubernetes · Terraform · GitHub Actions · Prometheus · Grafana - infrastructure as code, observability as a hobby, prod deploys on a Friday
 
-- **Backend Muscle** 🏋️
+- **Backend Muscle** 🏋️  
   Node.js · C#/.NET · Java - APIs that actually work
 
 - **Frontend Mischief** 🎨  
