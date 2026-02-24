@@ -28,6 +28,10 @@ Turns out, debugging is just as messy as surgery.
 - Solana (faster than my coffee kicks in)  
 - Big-picture system architecture
 
+## 📊 GitHub Stats
+
+![Jefferson's GitHub stats](https://github-readme-stats.vercel.app/api?username=kyzooghost&show_icons=true&theme=radical)
+
 ---
 
 📫  Ping me on Telegram: @kyzooghost  
