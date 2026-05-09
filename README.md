@@ -4,26 +4,18 @@ Once upon a time, I was a doctor 👨‍⚕️
 Now I’m a dev who stitches code instead of people.  
 Turns out, debugging is just as messy as surgery.
 
-## 🛠 My Happy Place (Comfort Stack)
+## 🧠 Technical Home Base
 
-- **Blockchain Sorcery** 🪄  
-  Solidity · Foundry · Hardhat · EVM - conjuring contracts that survive mainnet
+I like systems with sharp edges - backend services, cloud infrastructure, smart contracts, and production workflows where correctness and reliability actually matter.
 
-- **Cloud & DevOps** ☁️  
-  AWS · Kubernetes · Terraform · GitHub Actions · Prometheus · Grafana - infrastructure as code, observability as a hobby, prod deploys on a Friday
+The fun part for me is figuring out what actually matters, turning messy requirements into clear boundaries, and shaping the result into a well-oiled production system.
 
-- **Backend Muscle** 🏋️  
-  Node.js · C#/.NET · Java - APIs that actually work
-
-- **Frontend Mischief** 🎨  
-  React/NextJS & Angular - because why pick just one flavour of JavaScript pain?
+I practice AI-driven engineering to expand the design space, test assumptions faster, and make better engineering calls.
   
 ## 🌱 Currently Poking At
 
-- AI agents (everyone is, let’s be honest)
 - Golang (the gopher is cute, okay?)  
 - Solana (faster than my coffee kicks in)  
-- Big-picture system architecture
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/kyzooghost/kyzooghost/output/github-snake-dark.svg" />
