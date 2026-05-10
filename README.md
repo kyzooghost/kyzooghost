@@ -4,7 +4,7 @@ Once upon a time, I was a doctor 👨‍⚕️
 Now I’m a dev who stitches code instead of people.  
 Turns out, debugging is just as messy as surgery.
 
-## 🧠 Technical Home Base
+## 🏗️ Where I Build
 
 I like systems with sharp edges - backend services, cloud infrastructure, smart contracts, and production workflows where correctness and reliability actually matter.
 
