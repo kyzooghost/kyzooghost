@@ -6,11 +6,11 @@ Turns out, debugging is just as messy as surgery.
 
 ## 🏗️ Where I Build
 
-I like systems with sharp edges - backend services, cloud infrastructure, smart contracts, and production workflows where correctness and reliability actually matter.
+I like systems with sharp edges - backend services, cloud infrastructure, smart contracts, and production workflows where getting it wrong has consequences.
 
-The fun part for me is figuring out what actually matters, turning messy requirements into clear boundaries, and shaping the result into a well-oiled production system.
+I do my best work in the fog: surfacing the real trade-offs buried in conflicting requirements, bringing the hard decisions into focus, and building well-oiled systems that people trust.
 
-I practice AI-driven engineering to expand the design space, test assumptions faster, and make better engineering calls.
+I practise AI-native engineering to take on more ambitious problems and move faster without handing over the judgment that matters.
   
 ## 🌱 Currently Poking At
 
